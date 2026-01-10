@@ -1,5 +1,5 @@
 # Use OpenJDK base image
-FROM eclipse-temurin:8u472-b08-jre-alpine-3.23
+FROM eclipse-temurin:17-jdk-alpine
 
 WORKDIR /app
 
